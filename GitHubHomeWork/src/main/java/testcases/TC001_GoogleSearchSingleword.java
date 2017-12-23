@@ -11,9 +11,9 @@ public class TC001_GoogleSearchSingleword extends ProjectMethods{
 	public void doSetup(){
 		dataSheetName="TC001";
 		testCaseName="TC001_GoogleSearchSingleword";
-		testDescription="Search Google with a single keyword";
+		testDescription="Search Google with a single keyword - Test change in github";
 		category="sanity";
-		authors="muthu";
+		authors="Muthu & Jeba";
 		browserName="Chrome";
 	}
 	
