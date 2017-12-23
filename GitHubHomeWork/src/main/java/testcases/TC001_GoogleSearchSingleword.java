@@ -12,7 +12,7 @@ public class TC001_GoogleSearchSingleword extends ProjectMethods{
 		dataSheetName="TC001";
 		testCaseName="TC001_GoogleSearchSingleword";
 		testDescription="Search Google with a single keyword - Test change in github";
-		category="sanity";
+		category="Sanity/Smoke";
 		authors="Muthu & Jeba";
 		browserName="Chrome";
 	}
